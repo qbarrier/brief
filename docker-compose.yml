@@ -1,0 +1,15 @@
+services:
+  service-execution-de-script:
+    build: .
+    volumes:
+      - db_data:/var/lib/sqlite
+      - ./livrable:/app/livrable
+    depends_on:
+      - service-stockage-de-donnees
+  service-stockage-de-donnees:
+    image: alpine/sqlite
+    volumes:
+      - db_data:/var/lib/sqlite
+
+volumes:
+  db_data:

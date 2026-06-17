@@ -1,0 +1,21 @@
+- TABLEAU DE RECETTE PAR PRODUITS : 
+
+Le produit |Produit A - REF001| a été vendu |24 | fois et a recetté |1199.76 €|
+Le produit |Produit B - REF002| a été vendu |27 | fois et a recetté |539.73  €|
+Le produit |Produit C - REF003| a été vendu |15 | fois et a recetté |449.85  €|
+Le produit |Produit D - REF004| a été vendu |21 | fois et a recetté |1679.79 €|
+Le produit |Produit E - REF005| a été vendu |35 | fois et a recetté |1399.65 €|
+
+- TABLEAU DE RECETTE PAR REGION : 
+
+Le Ville de |   Paris   | a fait |20 | transactions et a fait un CA de : |799.8   €|
+Le Ville de | Marseille | a fait |27 | transactions et a fait un CA de : |1009.73 €|
+Le Ville de |   Lyon    | a fait |21 | transactions et a fait un CA de : |1059.79 €|
+Le Ville de | Bordeaux  | a fait |19 | transactions et a fait un CA de : |829.81  €|
+Le Ville de |   Lille   | a fait |7  | transactions et a fait un CA de : |249.93  €|
+Le Ville de |  Nantes   | a fait |17 | transactions et a fait un CA de : |739.83  €|
+Le Ville de |Strasbourg | a fait |11 | transactions et a fait un CA de : |579.89  €|
+
+- TABLEAU DU CHIFFRE D'AFFAIRE TOTAL : 
+
+Pour un total de |122| transactions le CA total est de : |5268.78€|
