@@ -84,9 +84,9 @@ def main(conn):
 
     ### ANALYSE DES REQUETES ###
     try:
-        # ft_analyse_produit(conn)
-        # ft_analyse_magasin(conn)
-        # ft_analyse_ca(conn)
+        # ft_analyse_produit(conn) # Ancienne Fonction
+        # ft_analyse_magasin(conn) # Ancienne Fonction
+        # ft_analyse_ca(conn) # Ancienne Fonction
         ft_analyse_sql(conn)
         ft_result(conn)
     except Exception as e:
